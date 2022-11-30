@@ -1,0 +1,15 @@
+body{
+    width: 250px;
+    background-color: azure;
+}
+button{
+    background-color: lightgray;
+    border: none;
+    padding: 4px;
+}
+
+#display{
+    color: black; 
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
